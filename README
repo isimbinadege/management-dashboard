@@ -1,0 +1,37 @@
+# 📋 Task Management Dashboard
+
+## 📖 Overview
+The **Task Management Dashboard** is a simple web application built with **HTML5, Tailwind CSS, and JavaScript**.  
+It allows users to **create, edit, delete, and track tasks** efficiently in a clean and responsive UI.  
+This project demonstrates **DOM manipulation, array & object management, and responsive design** using Tailwind CSS.
+
+---
+
+## 🚀 Features
+- ✅ **Initial Sample Tasks** – Displays 5 predefined tasks on page load.
+- ➕ **Add Task** – Add new tasks with a name and due date.
+- ✏ **Edit Task** – Update the task name and due date.
+- ❌ **Delete Task** – Remove tasks from the dashboard.
+- ✔ **Mark Complete/Incomplete** – Toggle tasks with distinct styling for completed items.
+- 🎨 **Responsive Design** – Works on desktop, tablet, and mobile screens using Tailwind CSS.
+
+### 🔥 Additional Features (Optional)
+- 🔍 **Filters** – View all / completed / pending tasks.
+- 📅 **Sorting** – Sort tasks by due date.
+- 💾 **Persistence** – LocalStorage support so tasks remain after refreshing.
+- ✨ **Animations** – Smooth add/remove transitions.
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Page structure  
+- **JavaScript (ES6)** – DOM manipulation & task logic  
+- **Tailwind CSS** – Styling & responsive design  
+
+---
+
+## 📂 Project Structure
+📁 task-dashboard
+┣ 📄 index.html # Main HTML file
+┣ 📄 script.js # JavaScript logic
+┣ 📄 README.md # Documentation
