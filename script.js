@@ -83,7 +83,7 @@ function deleteTask(id) {
   renderTasks();
 }
 
-// simple prompt-based edit (beginner-friendly)
+
 function editTask(id) {
   const t = tasks.find(x => x.id === id);
   if (!t) return;
